@@ -1,0 +1,15 @@
+{
+  "name": "notion-html-export-fixer",
+  "version": "1.0.0",
+  "description": "This package helps rename a notion exported folder with a set of subpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Notion", "html", "export"],
+  "author": "Lucio Schenkel",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
